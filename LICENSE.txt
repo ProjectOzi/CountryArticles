@@ -2,4 +2,13 @@
 NOTICE
 
 The rights to the files and data contained within this repository are reserved by the respective authors. The articles here must be used
-for non-profit and educational purposes only. 
+for non-profit and educational purposes only. The articles shall not be sold or distributed for profit.
+
+Any use of these articles must retain the stated author and source links.
+
+Any redistribution shall not alter or edit the content of these articles.
+
+A redistribution may convert the articles into a dataset, which does not contain the original formatted content. These redistributions
+must retain the authorship and source links.
+
+These articles shall not be patented or used in a trademark.
